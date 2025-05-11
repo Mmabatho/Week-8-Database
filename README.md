@@ -86,7 +86,8 @@ The database consists of three main tables:
 
 ## ERD (Entity-Relationship Diagram)
 
-![ERD Diagram](https://i.ibb.co/6y0C4sL/Draw-Mmabatho-drawio-2.png)
+![ERD Diagram](Draw Mmabatho.drawio (2).png)
+
 
 ## student\_portal\_schema.sql Content
 
