@@ -1,5 +1,5 @@
 -- Create the database
-CREATE DATABASE IF NOT EXISTS student_portal;
+CREATE DATABASE student_portal;
 USE student_portal;
 
 -- Create students table
